@@ -575,7 +575,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/sdp.jpg") center center no-repeat;
+  background: url(SDP.JPG") center center no-repeat;
   background-size: cover;
   padding: 60px 0;
   position: relative;
